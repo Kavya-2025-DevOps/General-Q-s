@@ -1,0 +1,14 @@
+Questions YOU Should Ask Interviewer
+
+Very important for senior roles.
+
+Ask:
+
+“How mature is your Kubernetes platform?”
+“How are CI/CD and release processes currently managed?”
+“What are the biggest operational challenges today?”
+“How is observability implemented?”
+“Are teams following GitOps or traditional deployments?”
+“How are cloud cost optimization initiatives handled?”
+“What is the current DevOps team structure?”
+“How much ownership does this role have in architectural decisions?”
