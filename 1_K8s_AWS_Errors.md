@@ -1,4 +1,5 @@
-************ Most Asked Kubernetes Q's ******************
+******************* Most Asked Kubernetes Q's ******************
+
 **POD:**
 1. **Pod in CrashLoopBackOff** - A pod is continuously restarting. What will you do.?
 2. **Deployment Stuck in Pending State** - Pods are not getting scheduled.?
@@ -21,5 +22,11 @@
 21. **API Server Not Responding** - kubectl commands are failing.?
 22. **Image Pull Error (ImagePullBackOff)** - Pod cannot pull image.?
 23. **Debugging Intermittent Production Issue** - App randomly fails under load.?
-    
+
+
+
+**************************** AWS *****************************
+
+
+
     
