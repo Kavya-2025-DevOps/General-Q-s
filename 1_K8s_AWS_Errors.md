@@ -1,4 +1,4 @@
-************ Most Asked Q's ******************
+************ Most Asked Kubernetes Q's ******************
 **POD:**
 1. **Pod in CrashLoopBackOff** - A pod is continuously restarting. What will you do.?
 2. **Deployment Stuck in Pending State** - Pods are not getting scheduled.?
