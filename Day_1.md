@@ -501,7 +501,7 @@ Achieved 99.9%+ availability with no single point of failure.
 
 ---
 
-### Final Interview Tip (8+ Years)
+### Final Interview Tip 
 
 For every answer, add a **real-world example**:
 
